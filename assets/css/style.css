@@ -1,0 +1,101 @@
+body {
+	/*background-color: #efeee7;*/
+	background-image: url("symphony.png");
+	font-family: "georgia","times new roman","times","serif";
+	}
+.navbar-brand{
+	font-size: 30px;
+	padding: 20px;
+
+}
+
+	p {
+		color:#777777;
+		text-align: justify;
+		font-size: 15px;
+
+	}
+
+h1 , h2 {
+	text-decoration: underline;
+	text-decoration: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color: gray;
+	background-color: #eff0ff;
+		height: 50px;
+		width: 150px;
+		text-align: center;
+		padding:10px;
+		border-radius: 10px;
+		border: solid 1px  lightgrey;
+}
+
+.linkedin , .github , .stack {
+	height: 25px;
+	width: 25px;
+}
+
+
+li{
+display: inline-block;
+padding: 10px;}
+
+
+body{
+	background-color: gray;
+}
+
+.fotomia {
+      border: 3px solid transparent;
+      margin:0 auto;
+}
+   
+  .fotomia:hover {
+      border-color: #f1f1f1;
+  }
+
+  img.thumbnail{
+  	max-height: 150px;
+  	max-width: 150px;
+  	margin:auto;
+
+  }
+
+  .projectos{
+  	text-align: center;
+  	font-size: 20px;
+  }
+
+  .proy{
+  	clear:both;
+  /*	background-image: url("fondo.jpeg") , opacity: 0.2 ;
+*/
+	background-color: #eff0ff;
+	border-radius: 10px;
+    /*background-position: left top;
+    background-repeat: repeat;*/
+    padding: 20px;
+    border: solid 1px  lightgrey;
+    
+  }
+
+  .form-horizontal{
+  	margin: 120px;
+  }
+
+footer, .push{
+	text-decoration: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 10px;
+	color: gray;
+	background-color: #eff0ff;
+		text-align: center;
+		padding:10px;
+		border-radius: 10px;
+		border: solid 1px  lightgrey;
+		position: fixed;
+		left: 0;
+		bottom:0;
+		width: 100%;
+}
